@@ -37,6 +37,7 @@ prohibitory: Prohibitory traffic signs
 warning: Warning traffic signs
 
 # Citation
+
 @article{wang2026robust,
   title={Robust traffic sign detection in real-world harsh conditions: A pioneering benchmark dataset and attention-based methodology},
   author={Wang, Fengping and Bai, Jie and Wang, Meng and Liu, Baobao and Xue, Haiwei and Chen, Jun},
