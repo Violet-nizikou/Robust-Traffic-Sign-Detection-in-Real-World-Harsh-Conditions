@@ -35,3 +35,14 @@ mandatory: Mandatory traffic signs
 prohibitory: Prohibitory traffic signs
 
 warning: Warning traffic signs
+
+# Citation
+@article{wang2026robust,
+  title={Robust traffic sign detection in real-world harsh conditions: A pioneering benchmark dataset and attention-based methodology},
+  author={Wang, Fengping and Bai, Jie and Wang, Meng and Liu, Baobao and Xue, Haiwei and Chen, Jun},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={166},
+  pages={113526},
+  year={2026},
+  publisher={Elsevier}
+}
